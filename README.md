@@ -5,11 +5,9 @@ So students often buy second hand books from their seniors and sell them to thei
 Thus, we thought of a way through which we could bridge this gap between them.
 
 SOLUTION :
-
 We have created a platform which serves to connect the buyers and sellers of second hand books.
 
 FEATURES :
-
 User authentication.(register / login)
 The books the user has put up for sale can be viewed.
 The books the user has bought can be viewed.
