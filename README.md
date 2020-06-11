@@ -1,42 +1,42 @@
 # SecondHandBooksInventory
-A platform to connect buyer and seller of second hand books.
-Engineering students need lots of new books every semester. It is not possible for every student to be able to buy brand new books every semester. 
-So students often buy second hand books from their seniors and sell them to their juniors after the semester ends. As of now there is no system in place to ensure that these transactions go smoothly. 
+A platform to connect buyer and seller of second hand books.\
+Engineering students need lots of new books every semester. It is not possible for every student to be able to buy brand new books every semester. \
+So students often buy second hand books from their seniors and sell them to their juniors after the semester ends. As of now there is no system in place to ensure that these transactions go smoothly. \
 Thus, we thought of a way through which we could bridge this gap between them.
 
-SOLUTION :
+<b>SOLUTION:
 
 We have created a platform which serves to connect the buyers and sellers of second hand books.
 
-FEATURES :
+<b>FEATURES:
 
-User authentication.(register / login)
-The books the user has put up for sale can be viewed.
-The books the user has bought can be viewed.
-Books can be bought branch and semester wise.
-Books can be put up for sale by the user.
+User authentication.(register / login)\
+The books the user has put up for sale can be viewed.\
+The books the user has bought can be viewed.\
+Books can be bought branch and semester wise.\
+Books can be put up for sale by the user.\
 Books available for sale by all users can be viewed in the inventory.
 
-TECHNOLOGY USED :
+<b>TECHNOLOGY USED:
 
-Database: MySQL
-Code: Python
+Database: MySQL\
+Code: Python\
 GUI: Python GUI library Tkinter
 
-SCHEMA DIAGRAM :
+<b>SCHEMA DIAGRAM:</b>
 
-Users( id, email, username, password, phone, branch, sem )
-Books( bid, name, branch, semester, cost, status, user_id, buyer_id)
+Users( id, email, username, password, phone, branch, sem )\
+Books( bid, name, branch, semester, cost, status, user_id, buyer_id)\
 
-CONCLUSION :
+<b>CONCLUSION:</b>
 
-By providing this platform, we used our skills and the available technology to help the student community connect despite a difference in age. 
-We also got a chance to explore a new python GUI library.
+By providing this platform, we used our skills and the available technology to help the student community connect despite a difference in age. \
+We also got a chance to explore a new python GUI library.\
 We successfully managed to connect it to MySQL for maintaining the database. 
 
-PROJECT IMPLEMENTED BY:
+<b>PROJECT IMPLEMENTED BY:</b>
 
-Shivangi Kochrekar (Shivangik01)
-Neha Kale (sapphire8)
+Shivangi Kochrekar (Shivangik01)\
+Neha Kale (nehakale8)\
 Khushi Jashnani (khushijashnani)
 
