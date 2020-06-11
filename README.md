@@ -37,6 +37,6 @@ We successfully managed to connect it to MySQL for maintaining the database.
 PROJECT IMPLEMENTED BY:
 
 Shivangi Kochrekar (Shivangik01)
-Neha Kale (sapphire8)
+Neha Kale (nehakale8)
 Khushi Jashnani (khushijashnani)
 
