@@ -4,11 +4,11 @@ Engineering students need lots of new books every semester. It is not possible f
 So students often buy second hand books from their seniors and sell them to their juniors after the semester ends. As of now there is no system in place to ensure that these transactions go smoothly. \
 Thus, we thought of a way through which we could bridge this gap between them.
 
-<b>SOLUTION:
+<b>SOLUTION:</b>
 
 We have created a platform which serves to connect the buyers and sellers of second hand books.
 
-<b>FEATURES:
+<b>FEATURES:</b>
 
 User authentication.(register / login)\
 The books the user has put up for sale can be viewed.\
@@ -17,7 +17,7 @@ Books can be bought branch and semester wise.\
 Books can be put up for sale by the user.\
 Books available for sale by all users can be viewed in the inventory.
 
-<b>TECHNOLOGY USED:
+<b>TECHNOLOGY USED:</b>
 
 Database: MySQL\
 Code: Python\
